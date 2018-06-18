@@ -12,21 +12,21 @@
         {
           "name": "Mega Sensor Board",
           "architecture": "avr",
-          "version": "1.6.0",
+          "version": "1.6.2",
           "category": "Contributed",
         
           "url": "https://github.com/misaproyectil/Hello-World/blob/master/MegaSensorBoard_1.0.1.zip",
           "archiveFileName": "MegaSensorBoard_1.0.1.zip",
-          "checksum": "SHA-256:c7f48af39ac3cb70feeaf28220bbdbf7f82c62cf1d48c46018fc043c458252ce",
-          "size": "297392",
+          "checksum": "SHA-256:2613a3d76beea5f200a79ca5897494339cea3b8498c4f64fa70bf7e9e5351230",
+          "size": "293589",
           "boards": [
             {"name": "Mega Sensor Board"}
             
           ],
-          "toolsDependencies": 
-               [
+          "toolsDependencies":
+		                 [
            
-               ]
+                       ]
     
         }
       ],
