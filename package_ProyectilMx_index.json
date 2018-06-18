@@ -1,0 +1,46 @@
+{
+  "packages": [
+    {
+      "name": "MegaSensorBoard",
+      "maintainer": "ProyectilMx",
+      "websiteURL": "",
+      "email": "misa@proyectil.mx",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "Mega Sensor Board",
+          "architecture": "avr",
+          "version": "1.6.0",
+          "category": "Contributed",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/misaproyectil/Hello-World/blob/master/MegaSensorBoard_1.0.0.tar.bz2",
+          "archiveFileName": "MegaSensorBoard_1.0.0.tar.bz2",
+          "checksum": "SHA-256:4d5b0abb29bbbc350ba4c0b7b427dbf1387263310ac0e399ab65058035c530c4",
+          "size": "4892866",
+          "boards": [
+            {"name": "Mega Sensor Board"}
+            
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+    
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
