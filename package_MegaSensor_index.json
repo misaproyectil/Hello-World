@@ -12,7 +12,7 @@
         {
           "name": "Mega Sensor Board",
           "architecture": "avr",
-          "version": "1.6.2",
+          "version": "1.0.0",
           "category": "Contributed",
         
           "url": "https://github.com/misaproyectil/Hello-World/blob/master/MegaSensorBoard_1.0.1.zip",
