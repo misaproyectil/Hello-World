@@ -17,8 +17,8 @@
         
           "url": "https://github.com/misaproyectil/Hello-World/blob/master/MegaSensorBoard_1.0.1.zip",
           "archiveFileName": "MegaSensorBoard_1.0.1.zip",
-          "checksum": "SHA-256:2613a3d76beea5f200a79ca5897494339cea3b8498c4f64fa70bf7e9e5351230",
-          "size": "293589",
+          "checksum": "SHA-256:553b6830d22d26f39a195c622288e8444505d81b0b815815076e58222a5bf6ad",
+          "size": "289873",
           "boards": [
             {"name": "Mega Sensor Board"}
             
